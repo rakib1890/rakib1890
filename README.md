@@ -20,20 +20,20 @@ I'm an **AI Automation Developer** focused on building intelligent workflows, AI
 
 I work with automation platforms and AI models to connect business tools, process information, and reduce repetitive manual tasks.
 
-- ⚙️ **Automation:** n8n and Make.com
-- 🤖 **AI & LLMs:** OpenAI, Claude, Gemini, and Groq
-- 🧠 **Knowledge Systems:** RAG, Supabase, pgvector, and semantic search
-- 🔌 **Integrations:** REST APIs, webhooks, HTTP requests, and JSON
-- 💼 **Business Use Cases:** Research automation, customer support, lead qualification, and document processing
-- 🏭 **Additional Experience:** 11+ years in dairy production and operations management
+-  **Automation:** n8n and Make.com
+-  **AI & LLMs:** OpenAI, Claude, Gemini, and Groq
+-  **Knowledge Systems:** RAG, Supabase, pgvector, and semantic search
+-  **Integrations:** REST APIs, webhooks, HTTP requests, and JSON
+-  **Business Use Cases:** Research automation, customer support, lead qualification, and document processing
+-  **Additional Experience:** 11+ years in dairy production and operations management
 
 My production career and AI automation projects are separate. I apply my operational problem-solving experience to understand business processes and build practical automation solutions.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+##  Tech Stack & Skills
 
-### ⚡ Automation & AI Agents
+###  Automation & AI Agents
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Make](https://img.shields.io/badge/Make.com-6D4AFF?style=for-the-badge&logo=make&logoColor=white)
@@ -42,7 +42,7 @@ My production career and AI automation projects are separate. I apply my operati
 
 `Workflow Automation` · `AI Agents` · `Agentic Workflows` · `Workflow Orchestration` · `Conditional Routing` · `Human-in-the-Loop`
 
-### 🧠 LLMs & AI Technologies
+###  LLMs & AI Technologies
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
@@ -51,14 +51,14 @@ My production career and AI automation projects are separate. I apply my operati
 
 `Prompt Engineering` · `Structured Outputs` · `JSON Responses` · `Information Extraction` · `AI Classification` · `LangChain` · `LangGraph`
 
-### 🔎 RAG & Knowledge Systems
+###  RAG & Knowledge Systems
 
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 `Retrieval-Augmented Generation (RAG)` · `Embeddings` · `Vector Search` · `Semantic Search` · `pgvector` · `Data Chunking` · `Document Ingestion` · `Context Retrieval`
 
-### 📞 Voice AI & Business Automation
+###  Voice AI & Business Automation
 
 ![Retell AI](https://img.shields.io/badge/Retell_AI-111827?style=for-the-badge)
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge)
@@ -66,7 +66,7 @@ My production career and AI automation projects are separate. I apply my operati
 
 `AI Voice Agents` · `Lead Qualification` · `Customer Support Automation` · `CRM Workflow Concepts` · `Call Routing`
 
-### 🔌 APIs & Development Tools
+###  APIs & Development Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
@@ -75,27 +75,27 @@ My production career and AI automation projects are separate. I apply my operati
 
 `REST APIs` · `Webhooks` · `HTTP Requests` · `JSON Parsing` · `JavaScript Code Nodes` · `Error Handling` · `Workflow Debugging` · `Docker Fundamentals`
 
-### 🏭 Operations & Management
+###  Operations & Management
 
 `Production Planning` · `Process Control` · `Food Safety` · `HACCP` · `Shift Management` · `Manpower Planning` · `Team Leadership (80+ staff)` · `Inventory Coordination` · `Problem Solving` · `MS Excel` · `MS Word` · `MS PowerPoint`
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
-### 🔬 AI Research & Content Intelligence Agent
+###  AI Research & Content Intelligence Agent
 **Make.com · Groq API · Google Sheets · JSON**
 
 </div>
 
 An AI-assisted workflow that processes research tasks from a structured spreadsheet and organizes the results.
 
-- 📥 Reads research tasks from Google Sheets.
-- 🤖 Sends structured prompts to an LLM through the Groq API.
-- 📝 Processes summaries, key insights, verification points, source URLs, and generated content.
-- 🔄 Parses structured JSON and updates the relevant spreadsheet row.
+-  Reads research tasks from Google Sheets.
+-  Sends structured prompts to an LLM through the Groq API.
+-  Processes summaries, key insights, verification points, source URLs, and generated content.
+-  Parses structured JSON and updates the relevant spreadsheet row.
 
 **Business value:** Organizes research tasks and reduces repetitive content preparation.
 
@@ -105,17 +105,17 @@ An AI-assisted workflow that processes research tasks from a structured spreadsh
 
 <div align="center">
 
-### 📩 RAG-Powered Email Support Agent
+###  RAG-Powered Email Support Agent
 **n8n · Supabase · pgvector · Gemini · Gmail · Google Drive**
 
 </div>
 
 An intelligent email support workflow that uses a knowledge base to prepare relevant responses.
 
-- 📚 Ingests knowledge documents from Google Drive.
-- 🔎 Uses vector search to retrieve relevant information.
-- ✍️ Drafts replies based on retrieved knowledge.
-- 👤 Requires human approval before sending emails.
+-  Ingests knowledge documents from Google Drive.
+-  Uses vector search to retrieve relevant information.
+-  Drafts replies based on retrieved knowledge.
+-  Requires human approval before sending emails.
 
 **Business value:** Helps support teams prepare consistent, knowledge-grounded replies while maintaining human oversight.
 
@@ -125,18 +125,18 @@ An intelligent email support workflow that uses a knowledge base to prepare rele
 
 <div align="center">
 
-### 📄 Contract Clause Risk Analysis Automation
+###  Contract Clause Risk Analysis Automation
 **n8n · Groq · Webhooks · Google Drive · Gmail**
 
 </div>
 
 A document-processing workflow designed to identify contract clauses that may require further review.
 
-- 📥 Accepts contract text through a webhook.
-- ✂️ Processes text into individual clauses.
-- 🧠 Uses an LLM to assess potential clause-level risks.
-- 📊 Generates structured risk results and an HTML report.
-- 📧 Supports alerts for high-risk findings.
+-  Accepts contract text through a webhook.
+-  Processes text into individual clauses.
+-  Uses an LLM to assess potential clause-level risks.
+-  Generates structured risk results and an HTML report.
+-  Supports alerts for high-risk findings.
 
 **Business value:** Helps reviewers prioritize clauses for closer examination. AI-generated results do not replace professional legal advice.
 
@@ -153,12 +153,12 @@ A document-processing workflow designed to identify contract clauses that may re
 
 An AI agent concept that connects conversational requests to external travel-related tools.
 
-- 🌦️ Weather information
-- 🏨 Hotel discovery
-- 🍽️ Restaurant discovery
-- 📍 Attractions
-- 💱 Currency information
-- 🧠 Conversation memory and tool orchestration
+-  Weather information
+-  Hotel discovery
+-  Restaurant discovery
+-  Attractions
+-  Currency information
+-  Conversation memory and tool orchestration
 
 **Business value:** Demonstrates how an AI agent can coordinate multiple tools through a unified interface.
 
@@ -168,18 +168,18 @@ An AI agent concept that connects conversational requests to external travel-rel
 
 <div align="center">
 
-### 🎯 AI Lead Qualification Automation
+###  AI Lead Qualification Automation
 **n8n · Webhooks · Groq · AI Agent · Google Sheets**
 
 </div>
 
 A workflow designed to classify incoming leads and organize sales follow-up.
 
-- 📥 Receives lead data through a webhook.
-- 🧹 Structures incoming information.
-- 🤖 Classifies leads as hot, warm, or cold.
-- 🔀 Routes leads based on their classification.
-- 📊 Supports recording results in Google Sheets.
+-  Receives lead data through a webhook.
+-  Structures incoming information.
+-  Classifies leads as hot, warm, or cold.
+-  Routes leads based on their classification.
+-  Supports recording results in Google Sheets.
 
 **Business value:** Helps sales teams prioritize prospects and organize follow-up activities.
 
@@ -189,18 +189,18 @@ A workflow designed to classify incoming leads and organize sales follow-up.
 
 <div align="center">
 
-### 🎙️ AI Voice Receptionist
+###  AI Voice Receptionist
 **Retell AI · ElevenLabs · Vapi**
 
 </div>
 
 A voice automation project concept for inbound calls and customer information collection.
 
-- 🗣️ Conversational voice interactions
-- 📋 Caller information collection
-- 🎯 Lead qualification
-- 🔀 Call routing and escalation
-- 🌐 Multilingual support, depending on platform configuration
+-  Conversational voice interactions
+-  Caller information collection
+-  Lead qualification
+-  Call routing and escalation
+-  Multilingual support, depending on platform configuration
 
 **Business value:** Explores how voice agents can assist with repetitive front-desk and lead-handling tasks.
 
@@ -210,18 +210,18 @@ A voice automation project concept for inbound calls and customer information co
 
 <div align="center">
 
-### 🎬 YouTube & Social Media Automation
+###  YouTube & Social Media Automation
 **n8n · FFmpeg · Cloudinary · AI Services**
 
 </div>
 
 An AI-assisted content production pipeline concept that coordinates multiple media-processing steps.
 
-- 📝 Script and content preparation
-- 🖼️ Image generation through integrated services
-- 🔊 Voiceover generation
-- 🎞️ Video assembly using FFmpeg
-- ☁️ Media handling through Cloudinary
+-  Script and content preparation
+-  Image generation through integrated services
+-  Voiceover generation
+-  Video assembly using FFmpeg
+-  Media handling through Cloudinary
 
 **Business value:** Demonstrates a workflow approach to coordinating content production tasks.
 
@@ -229,21 +229,21 @@ An AI-assisted content production pipeline concept that coordinates multiple med
 
 ---
 
-## 🧪 More Automation Projects
+##  More Automation Projects
 
-- 📧 Email Support & Dental Email Agent
-- 🔍 Hermes Remote Job Finder
-- 💼 LinkedIn Job Scraper
-- 🍽️ Restaurant Outreach Automation
-- 🌦️ Weather AI Agent
-- 🖼️ Unsplash API Automation
-- 📈 AI Sales & Lead Outreach
+-  Email Support & Dental Email Agent
+-  Hermes Remote Job Finder
+-  LinkedIn Job Scraper
+-  Restaurant Outreach Automation
+-  Weather AI Agent
+-  Unsplash API Automation
+-  AI Sales & Lead Outreach
 
 Project repositories, workflow exports, screenshots, and demonstrations will be linked as they are prepared for publication.
 
 ---
 
-## 📊 GitHub Overview
+##  GitHub Overview
 
 <div align="center">
 
@@ -257,7 +257,7 @@ Project repositories, workflow exports, screenshots, and demonstrations will be 
 
 ---
 
-## 💼 Professional Experience
+##  Professional Experience
 
 ### Assistant Manager — Dairy Production
 **PRAN-RFL Group | April 2015 – Present**
@@ -282,7 +282,7 @@ Project repositories, workflow exports, screenshots, and demonstrations will be 
 
 ---
 
-## 🎓 Education & Training
+##  Education & Training
 
 **Diploma in Food Science**  
 Narsingdi Polytechnic Institute · 2014
@@ -290,11 +290,11 @@ Narsingdi Polytechnic Institute · 2014
 **AI Automation & AI Agent Training**  
 Ostad
 
-🏆 **Training Achievement:** Overall Top Scorer — 99.8 points.
+ **Training Achievement:** Overall Top Scorer — 99.8 points.
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 - Building reliable AI-powered automation workflows
 - Developing tool-connected AI agents
@@ -324,7 +324,7 @@ I'm interested in practical AI automation, workflow optimization, and AI-powered
 
 <div align="center">
 
-### ⚡ Automate the repetitive. Connect the intelligent. Build the practical.
+###  Automate the repetitive. Connect the intelligent. Build the practical.
 
 *Building practical AI automation systems, one workflow at a time.*
 
